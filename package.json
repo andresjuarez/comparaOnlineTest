@@ -1,0 +1,24 @@
+{
+  "name": "comparaonline",
+  "version": "1.0.0",
+  "description": "Interview coding of comparaOnline",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresjuarez/comparaOnlineTest.git"
+  },
+  "keywords": [
+    "test",
+    "interview",
+    "comparaOnline"
+  ],
+  "author": "Andres Juarez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andresjuarez/comparaOnlineTest/issues"
+  },
+  "homepage": "https://github.com/andresjuarez/comparaOnlineTest#readme"
+}
