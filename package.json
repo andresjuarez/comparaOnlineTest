@@ -4,7 +4,7 @@
   "description": "Interview coding of comparaOnline",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha spec/*.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/andresjuarez/comparaOnlineTest/issues"
   },
-  "homepage": "https://github.com/andresjuarez/comparaOnlineTest#readme"
+  "homepage": "https://github.com/andresjuarez/comparaOnlineTest#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
 }

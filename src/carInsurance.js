@@ -1,5 +1,5 @@
 
-export default class CarInsurance {
+class CarInsurance {
   constructor (products = []) {
     this.products = products
   }
@@ -7,5 +7,8 @@ export default class CarInsurance {
     this.products.map((product) => {
       console.log(product)
     })
+    return this.products
   }
 }
+
+module.exports = CarInsurance
